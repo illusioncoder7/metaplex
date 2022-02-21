@@ -1,0 +1,46 @@
+{
+  "name": "Sad APE",
+  "symbol": "DAP",
+  "description": "A duplicate copy of BYAC",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fan Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blower Pi"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Gold Ring"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Purple"
+    }
+  ],
+
+  "collection": {
+    "name": "Zero Punks",
+    "family": "Aeroes"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "image",
+
+    "creators": [
+      {
+        "address": "2QHoErZgnbvmG4cwjdXcpmMKWiDm7KYcHtaPK1xmggpW",
+        "share": 100
+      }
+    ]
+  }
+}

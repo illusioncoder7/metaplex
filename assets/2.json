@@ -1,0 +1,46 @@
+{
+  "name": "Bored APE",
+  "description": "A duplicate copy of BYAC",
+  "symbol": "DAP",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "BYAC Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White Bearded"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Blue Ring"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Formal"
+    }
+  ],
+
+  "collection": {
+    "name": "Zero Punks",
+    "family": "Zeroes"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "image",
+
+    "creators": [
+      {
+        "address": "2QHoErZgnbvmG4cwjdXcpmMKWiDm7KYcHtaPK1xmggpW",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Angry APE",
+  "description": "A duplicate copy of BYAC",
+  "symbol": "DAP",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teeth Show"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Silver Ring"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Zebra Stripes"
+    }
+  ],
+
+  "collection": {
+    "name": "Zero Punks",
+    "family": "Zeroes"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "image",
+
+    "creators": [
+      {
+        "address": "2QHoErZgnbvmG4cwjdXcpmMKWiDm7KYcHtaPK1xmggpW",
+        "share": 100
+      }
+    ]
+  }
+}
