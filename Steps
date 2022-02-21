@@ -1,0 +1,18 @@
+1. Install ts-node -> npm install -g ts-node
+2. Install solana cli
+3. Point to devnet -> solana config set --url devnet
+4. Create new keypair -> solana-keygen new --outfile ~/config/solana/name.json
+5. Set the keypair -> solana config set --keypair ~/config/solana/name.json
+6. Airdop sols -> solana airdrop 2
+7. Make a new folder named assets and copy the images and json metadata to that(0.png,o.json....)
+8. https://docs.metaplex.com/token-metadata/specification
+9.  cd js && yarn install && yarn build
+10. yarn bootstarap
+11. cd ..
+12. config.json file
+13. ts-node js/packages/cli/src/candy-machine-v2-cli.ts upload ./assets --env devnet --keypair ~/config/solana/nft.json  -cp config.json
+14. ts-node js/packages/cli/src/candy-machine-v2-cli.ts verify_upload --env devnet --keypair ~/config/solana/nft.json
+15. cd js/packages/candy-machine-ui
+16 . change the env variables
+16. yarn install && yarn start
+17.
